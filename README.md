@@ -2,9 +2,9 @@
 - 👀 I’m interested in computer vision and machine learning
 - 🌱 I’m currently learning Python and SQL
 - 📫 Can to reach me:
--     Kaggle: kaggle.com/felipedutralisboa
--     Linkedin: linkedin.com/in/felipe-dutra-lisboa-655baa1b2/
--     Medium: felipe-lisboa-87782.medium.com
+-     kaggle.com/felipedutralisboa
+-     linkedin.com/in/felipe-dutra-lisboa-655baa1b2/
+-     felipe-lisboa-87782.medium.com
 
 # Medium
 
