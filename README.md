@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @FRubik
-- 👀 I’m interested in computer vision and machine learning
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 I’m currently learning Python and SQL for Data Science
 - 📫 Can to reach me:
--     kaggle.com/felipedutralisboa
--     linkedin.com/in/felipe-dutra-lisboa-655baa1b2/
--     felipe-lisboa-87782.medium.com
+-     https://www.kaggle.com/felipedutralisboa
+-     https://www.linkedin.com/in/felipe-dutra-lisboa-655baa1b2/
+-     https://felipe-lisboa-87782.medium.com/
 
-# Medium
+# Medium Posts
 
-This folder is destined to share notebooks used in Medium posts. The posts can see in follow links.
+This folder is intended to share my notebooks used in Medium posts. 
+The posts can be seen in the following links (they are in portuguese).
 
 ## Decision Tree
 ### Tree.ipynb
