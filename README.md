@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @FRubik
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Python and SQL for Data Science
